@@ -1,0 +1,14 @@
+{
+  "inputs": {
+        "blockchain": [
+            "blockchain-practice-1", "blockchain-practice-2"
+        ],
+        "due-diligence": [
+            "due-diligence-practice-1", "due-diligence-practice-2"
+        ],
+        "gdpr": [
+            "gdpr-practice-1"
+        ]
+    },
+    "workdir": "/tmp"
+}
